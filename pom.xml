@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.config</groupId>
-	<artifactId>testZipkinServer</artifactId>
+	<artifactId>testConfigServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>testConfig</name>
 	<description>Demo project for Spring config</description>
